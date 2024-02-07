@@ -9,4 +9,4 @@ I'm a recent graduate passionate about create and build a simple web app. I enjo
 - *Internship, @ Omon group inc. 2023
 -  Apprentice Desktop support
   
-## [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liergab)](https://github.com/anuraghazra/github-readme-stats)
+## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liergab&show_icons=true&theme=radical)
