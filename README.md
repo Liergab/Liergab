@@ -11,13 +11,10 @@ I'm a recent graduate passionate about create and build a simple web app. I enjo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Liergab&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Liergab&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Liergab&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Liergab&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Liergab&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
