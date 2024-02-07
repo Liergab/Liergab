@@ -10,3 +10,4 @@ I'm a recent graduate passionate about create and build a simple web app. I enjo
 -  Apprentice Desktop support
   
 ## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liergab&show_icons=true&theme=radical)
+## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liergab&hide_progress=true)
