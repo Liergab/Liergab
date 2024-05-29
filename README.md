@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm a recent graduate passionate about creating and building simple web applications. I enjoy studying and exploring the diverse world of web development, constantly seeking to enhance my skills and knowledge..
+I'm a Web Developer passionate about creating and building simple web applications. I enjoy studying and exploring the diverse world of web development, constantly seeking to enhance my skills and knowledge..
 
 
 ## 🌐 Socials:
