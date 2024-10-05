@@ -12,6 +12,7 @@ I'm a Web Developer passionate about creating and building simple web applicatio
 
 # 🧑‍💻 Experience:
 - Junior Developer @ Dispter Ojt-Connect (Open-source-project).
+- System Developer @ NMCP.
 - Intership @ Omon group inc (Apprentice desktop support).
 
 
